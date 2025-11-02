@@ -14,7 +14,7 @@ LoRA-Finetuned Recipe Generator contains notebooks and scripts for parameter-eff
 - Train adapters with LoRA to keep the fine-tuned footprint small
 - Example training & inference notebooks for reproducibility
 - Dataset format guidance for structured recipe generation (ingredients + steps)
-- Tips for low-resource and quantized training (bitsandbytes / 8-bit)
+- Tips for low-resource and quantized training (bitsandbytes / 4-bit)
 
 ---
 
