@@ -1,5 +1,5 @@
 ```markdown
-# LoRA-Finetuned Recipe Generator
+## LoRA-Finetuned Recipe Generator
 
 LoRA-Finetuned Recipe Generator contains notebooks and scripts for parameter-efficient fine-tuning (LoRA / PEFT) of pretrained language models to generate cooking recipes from prompts (dish, ingredients, dietary constraints, style, etc.). The project focuses on compact, fast fine-tuning workflows that produce usable recipe-generation models.
 
